@@ -4,6 +4,8 @@
 
 ![Stats](./codestats.png)
 
+Toeliching Week 15 & 16...
+
 ## Zelfbeoordeling
 * Backend Code Kwantiteit - Op Niveau
 Want zoals je ziet Link X...blabla
