@@ -1,6 +1,6 @@
 # toms-test-portfolio
 
 
-* [Sprint1](./sprints/sprint1)
+* [Sprint1](./sprints/blok-a-backend)
 
 asdfasdfasd

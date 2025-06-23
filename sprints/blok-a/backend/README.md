@@ -22,8 +22,15 @@ Geen deployment gedaan, want de andere backender kon dit veel beter.
 
 * Tevredenheid Team
 ...samenwerking
+    * Ben ik tevreden over mijn functioneren in het team
+    * Ben ik tevreden over hoe mijn team functioneert? (geen naming & shaming plx.)
+    * Is mijn team tevreden over mij?
 
 * Tevredenheid Opdrachtgever
 ...heeft het echt waarde opgeleverd?
+    * Ben ik tevreden over hoe de opdrachtgever met ons omgaat?
+    * Is de opdrachtgever tevreden over ons functioneren? 
+    24 * 3 * 20 * tg = 1440 * tg
 
+    
 
