@@ -22,3 +22,5 @@ wuuut, heeft github bibtex support?
   year = 2005
 }
 ```
+
+Nee dat heeft het niet... alleen syntax highlighting:D
