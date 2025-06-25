@@ -8,6 +8,8 @@ asdfasdfasd
 
 wuuut, heeft github bibtex support? [^asdf]
 
+A non-existing footnote [^nonexist]
+
 
 
 ```bibtex
@@ -27,3 +29,4 @@ Nee dat heeft het niet... alleen syntax highlighting:D
 
 
 [^asdf]: Booch, G., Rumbaugh, J., Jacobson, I. (2005). The unified modeling language user guide. 
+[^unused]: An unused footnote
