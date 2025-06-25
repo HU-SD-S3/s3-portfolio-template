@@ -6,7 +6,7 @@
 asdfasdfasd
 
 
-wuuut, heeft github bibtex support?
+wuuut, heeft github bibtex support? [^1]
 
 
 
@@ -24,3 +24,6 @@ wuuut, heeft github bibtex support?
 ```
 
 Nee dat heeft het niet... alleen syntax highlighting:D
+
+
+[^1] Booch, G., Rumbaugh, J.,, Jacobson, I. (2005). The unified modeling language user guide. 
