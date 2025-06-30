@@ -1,1 +1,0 @@
-TODO: template voor Blok B sprint

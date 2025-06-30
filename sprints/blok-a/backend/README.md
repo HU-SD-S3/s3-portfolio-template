@@ -1,12 +1,20 @@
 #  Sprint 1
 
+## Samenvatting
+
+Wat heb je gedaan deze sprint. Vertel een kort verhaal van 1-3 alineas wat je deze sprint bereikt en geleerd hebt.
+
 ## Stats
 
 ![Stats](./codestats.png)
 
-Toeliching Week 15 & 16...
+Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hier vreemde zaken staan (zoals heeeel veel frontend-code in een backend-sprint, of een week nagenoeg afwezig) dan is dit het moment dat toe te lichten.
+
+Link naar Opdracht Repo & Beoordeling.
 
 ## Zelfbeoordeling
+
+
 * Backend Code Kwantiteit - Op Niveau
 Want zoals je ziet Link X...blabla
 
