@@ -26,6 +26,11 @@ Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hi
 <!-- Is het gelukt om jouw werk netjes op te leveren zodat het echt gebruikt kan worden. Is het netjes getest voordat het gedemo'd wordt. Was er bestaande data die gemigreerd moest worden?
  -->
 
+* Accessiblity - [Boven/Op/Onder] Niveau:
+  ...
+
+<!-- Deze en volgende sprint wordt je werk ook expliciet getest op Accessibility. Dus link een aantal stukken code/ontwerp waarbij je expliciet rekening hebt gehouden met accessibility. En ligt toe wat je daarvoor hebt aangepast. -->
+
 * Professionele Houding - [Boven/Op/Onder] Niveau
     * tov. Team: ... <!-- Is het gelukt om je beloofde werk binnen een redelijke tijd op te leveren? Heb je werk van anderen kunnen reviewen? -->
     * tov. Opdrachtgever: ... <!-- Hoe reageerde de opdrachtgever op jouw werk deze sprint? Is het mooi afgekomen? Of heb je duidelijk van tevoren aangegeven wat wel/niet zou gaan werken? -->
