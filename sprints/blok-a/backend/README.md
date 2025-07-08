@@ -1,44 +1,41 @@
-#  Sprint 1
-
-## Samenvatting
-
-Wat heb je gedaan deze sprint. Vertel een kort verhaal van 1-3 alineas wat je deze sprint bereikt en geleerd hebt.
+#  Sprint A Backend
 
 ## Stats
 
-![Stats](./codestats.png)
+<!-- Deze statistieken zullen met een PR aangeleverd worden -->
+![Stats](./stats.png)
 
-Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hier vreemde zaken staan (zoals heeeel veel frontend-code in een backend-sprint, of een week nagenoeg afwezig) dan is dit het moment dat toe te lichten.
-
-Link naar Opdracht Repo & Beoordeling.
+<!-- 
+Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hier vreemde zaken staan (zoals heeeel veel frontend-code in een backend-sprint, of een week nagenoeg afwezig) dan is dit het moment dat toe te lichten. -->
 
 ## Zelfbeoordeling
 
+* Backend Code Kwantiteit - [Boven/Op/Onder] Niveau: 
+  ...
 
-* Backend Code Kwantiteit - Op Niveau
-Want zoals je ziet Link X...blabla
+<!-- Wat heb je zoal gedaan deze sprint? Link de grotere user-stories waar je aan hebt gewerkt -->
 
-* Backend Code - Kwaliteit
-    * Domeinmodel
-    * Architectural Compliance
-    * Datamodel
-    * Restful Endpoints
-    * Framework-gebruik
+* Backend Code - Kwaliteit - [Boven/Op/Onder] Niveau
+    <!-- Link per onderdeel een voorbeeldig stuk code of screenshot en vertel in een paar zinnen waarom dit zo'n goed voorbeeld is -->
+    * [Domeinmodel](https://github.com/...): 
+    ...
+    * [Architectural Compliance]():
+    ...
+    * [Datamodel]():
+    ...
+    * [Restful Endpoints]():
+    ...
+    * [Framework-gebruik]():
+    ...
 
-* Productie Deployment
-Geen deployment gedaan, want de andere backender kon dit veel beter.
+* Productie Deployment - [Boven/Op/Onder] Niveau:
+  ...
 
-* Tevredenheid Team
-...samenwerking
-    * Ben ik tevreden over mijn functioneren in het team
-    * Ben ik tevreden over hoe mijn team functioneert? (geen naming & shaming plx.)
-    * Is mijn team tevreden over mij?
+<!-- Vertel kort hoe je de deployment naar productie hebt aangepakt.
+     Het kan zijn dat je er deze sprint niet zo aan toe bent gekomen, omdat er 2 backend-studenten in je team zaten. Dan komt dit wel in een latere sprint.
+ -->
 
-* Tevredenheid Opdrachtgever
-...heeft het echt waarde opgeleverd?
-    * Ben ik tevreden over hoe de opdrachtgever met ons omgaat?
-    * Is de opdrachtgever tevreden over ons functioneren? 
-    24 * 3 * 20 * tg = 1440 * tg
-
-    
-
+* Professionele Houding - [Boven/Op/Onder] Niveau
+    * tov. Team: ... <!-- Is het gelukt om je beloofde werk binnen een redelijke tijd op te leveren? Heb je werk van anderen kunnen reviewen? -->
+    * tov. Opdrachtgever: ... <!-- Hoe reageerde de opdrachtgever op jouw werk deze sprint? Is het mooi afgekomen? Of heb je duidelijk van tevoren aangegeven wat wel/niet zou gaan werken? -->
+    * tov. Eigen ontwikkeling: ... <!-- Is het gelukt om serieus je rol aan te pakken? Wat zou je graag anders hebben gedaan en/of een volgende keer anders doen?-->
