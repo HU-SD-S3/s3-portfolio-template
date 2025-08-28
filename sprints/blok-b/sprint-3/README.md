@@ -1,4 +1,9 @@
-#  Sprint B-1
+#  Sprint B-2
+
+## Impressie
+
+<!-- vertel heel kort hoe het product er voor staat, en wat jouw aandeel er in was deze sprint. Voeg een paar screenshots toe hoe het product er nu uit ziet, met een nadruk op je eigen werk, maar een algemene indruk van het geheel is ook waardevol voor het portfolio. Het idee is dat we dit per sprint doen, dus aan het eind een 
+mooi plaatje van de groei overhouden -->
 
 ## Stats
 
@@ -29,7 +34,7 @@ Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hi
 * Accessiblity - [Boven/Op/Onder] Niveau:
   ...
 
-<!-- Deze en volgende sprint wordt je werk ook expliciet getest op Accessibility. Dus link een aantal stukken code/ontwerp waarbij je expliciet rekening hebt gehouden met accessibility. En ligt toe wat je daarvoor hebt aangepast. -->
+<!-- Deze sprint wordt je werk ook expliciet getest op Accessibility. Hiervoor werken we samen met Stichting Accessibility. Dus link een aantal stukken code/ontwerp waarbij je expliciet rekening hebt gehouden met accessibility. En ligt toe wat je daarvoor hebt aangepast. -->
 
 * Professionele Houding - [Boven/Op/Onder] Niveau
     * tov. Team: ... <!-- Is het gelukt om je beloofde werk binnen een redelijke tijd op te leveren? Heb je werk van anderen kunnen reviewen? -->

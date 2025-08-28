@@ -1,5 +1,10 @@
 #  Sprint B-1
 
+## Impressie
+
+<!-- vertel heel kort hoe het product er voor staat, en wat jouw aandeel er in was deze sprint. Voeg een paar screenshots toe hoe het product er nu uit ziet, met een nadruk op je eigen werk, maar een algemene indruk van het geheel is ook waardevol voor het portfolio. Het idee is dat we dit per sprint doen, dus aan het eind een 
+mooi plaatje van de groei overhouden -->
+
 ## Stats
 
 <!-- Deze statistieken zullen met een PR aangeleverd worden -->
