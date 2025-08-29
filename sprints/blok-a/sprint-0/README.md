@@ -17,12 +17,23 @@ Hier is als het goed is nog niet zoveel te zien. Meer een test voor ons docenten
 
 <!-- Vertel kort hoe jij van plan bent dit semester te gaan halen. Zijn er valkuilen waar je je zorgen over maakt? Dingen die je nu anders gaat doen? Of vertel waarom je eigenlijk niets anders hoeft te doen dan anders -->
 
-## Zelfbeoordeling
-
 * Aandeel visie delen met opdrachtgever - [Boven/Op/Onder] Niveau <!-- Streep weg wat niet van toepassing is -->
 <!-- Wat heb jij gedaan in Sprint 0 om je stempel op het team te drukken? Heb je juist het idee aan de opdrachtgever verkocht, of was je juist de kracht achter de schermen met de grote idëeen, of kon je het juist goed visualiseren? -->
 
-* Portfolio online - [Boven/Op/Onder] Niveau <!-- Streep weg wat niet van toepassing is -->
+## Zelfbeoordeling
+
+* Kwantiteit - [Boven/Op/Onder] Niveau: <!-- Streep weg wat niet van toepassing is -->
+
+<!-- Wat is jouw aandeel geweest in het ontwikkelen van de team-visie wat er gebouwd moet gaan worden? 
+     Als je dit makkelijk kan aangeven met een linkje, graag. Maar je hoeft echt niet per regel te gaan citeren. -->
+
+* Kwaliteit - [Boven/Op/Onder] Niveau <!-- Streep weg wat niet van toepassing is -->
+
+<!-- Vind je zelf dat je het helder/duidelijk/netjes gecommuniceerd of gemaakt hebt? Wellicht ben je zelf
+     verrast hoe goed het ging, of had je het veel beter kunnen doen als je maar meer tijd had gehad. -->   
+
+* Portfolio - [Boven/Op/Onder] Niveau <!-- Streep weg wat niet van toepassing is -->
+  
 <!-- Is het gelukt om je portfolio als statische Github site online te zetten? Heb je daar nog evt. extras aan toegevoegd? Er is best veel mogelijk met Github pages, en eerlijk gezegd beoordelen we totaal niet op hoe het eruit ziet (mits het functioneel is!). Maar het is natuurlijk wel leuk en motiverend hier iets moois van te maken -->
 
 * Professionele Houding - [Boven/Op/Onder] Niveau <!-- Streep weg wat niet van toepassing is -->
