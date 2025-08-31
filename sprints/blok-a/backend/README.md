@@ -16,7 +16,6 @@ Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hi
 ## Zelfbeoordeling
 
 * Backend Code Kwantiteit - [Boven/Op/Onder] Niveau: 
-  ...
 
 <!-- Wat heb je zoal gedaan deze sprint? Link de grotere user-stories waar je aan hebt gewerkt -->
 
@@ -34,7 +33,6 @@ Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hi
     ...
 
 * Productie Deployment - [Boven/Op/Onder] Niveau:
-  ...
 
 <!-- Vertel kort hoe je de deployment naar productie hebt aangepakt.
      Het kan zijn dat je er deze sprint niet zo aan toe bent gekomen, omdat er 2 backend-studenten in je team zaten. Dan komt dit wel in een latere sprint.
